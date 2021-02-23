@@ -1,2 +1,2 @@
 # Working-with-TestNG---IntelliJ-IDE
-this is a short toturial on how to add TestNG to IntelliJ project.
+Short toturial on how to add TestNG to IntelliJ project.
